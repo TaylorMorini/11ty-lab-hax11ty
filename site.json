@@ -1,5 +1,5 @@
 {
-  "id": "#aecd0f75-090f-26ee-b613-a5a656e98d67",
+  "id": "#823937b1-0485-3c9b-8d0f-5d075fbc2019",
   "title": "11ty-lab-hax11ty",
   "author": "TaylorMorini",
   "description": "project documentation",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "11ty-lab-hax11ty",
-      "created": 1646010859693,
-      "updated": 1646010859693,
+      "created": 1646011442687,
+      "updated": 1646011442687,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,8 +58,8 @@
       "description": "HAXTheWeb",
       "parent": "--content-examples-index-md",
       "metadata": {
-        "created": 1646010837,
-        "updated": 1646010837,
+        "created": 1646011417,
+        "updated": 1646011417,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -82,8 +82,8 @@
       "description": "About",
       "parent": null,
       "metadata": {
-        "created": 1646010837,
-        "updated": 1646010837,
+        "created": 1646011417,
+        "updated": 1646011417,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -106,8 +106,8 @@
       "description": "Installation",
       "parent": null,
       "metadata": {
-        "created": 1646010837,
-        "updated": 1646010837,
+        "created": 1646011417,
+        "updated": 1646011417,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -130,8 +130,8 @@
       "description": "Community examples",
       "parent": "--content-examples-index-md",
       "metadata": {
-        "created": 1646010837,
-        "updated": 1646010837,
+        "created": 1646011417,
+        "updated": 1646011417,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -154,8 +154,8 @@
       "description": "Examples",
       "parent": null,
       "metadata": {
-        "created": 1646010837,
-        "updated": 1646010837,
+        "created": 1646011417,
+        "updated": 1646011417,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -178,8 +178,8 @@
       "description": "Why this is better",
       "parent": null,
       "metadata": {
-        "created": 1646010837,
-        "updated": 1646010837,
+        "created": 1646011417,
+        "updated": 1646011417,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -202,8 +202,8 @@
       "description": "Roadmap",
       "parent": null,
       "metadata": {
-        "created": 1646010837,
-        "updated": 1646010837,
+        "created": 1646011417,
+        "updated": 1646011417,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -226,8 +226,8 @@
       "description": "Get involved!",
       "parent": null,
       "metadata": {
-        "created": 1646010837,
-        "updated": 1646010837,
+        "created": 1646011417,
+        "updated": 1646011417,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
