@@ -1,5 +1,5 @@
 {
-  "id": "#823937b1-0485-3c9b-8d0f-5d075fbc2019",
+  "id": "#fa08a518-edea-9dc7-e748-26f6737ca99b",
   "title": "11ty-lab-hax11ty",
   "author": "TaylorMorini",
   "description": "project documentation",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "11ty-lab-hax11ty",
-      "created": 1646011442687,
-      "updated": 1646011442687,
+      "created": 1646011557856,
+      "updated": 1646011557856,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,8 +58,8 @@
       "description": "HAXTheWeb",
       "parent": "--content-examples-index-md",
       "metadata": {
-        "created": 1646011417,
-        "updated": 1646011417,
+        "created": 1646011530,
+        "updated": 1646011530,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -73,30 +73,6 @@
       }
     },
     {
-      "id": "--content-about-md",
-      "indent": 0,
-      "location": "./pages/about.md",
-      "slug": "content/about/",
-      "order": 1,
-      "title": "About",
-      "description": "About",
-      "parent": null,
-      "metadata": {
-        "created": 1646011417,
-        "updated": 1646011417,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "About",
-        "order": 1
-      }
-    },
-    {
       "id": "--content-install-md",
       "indent": 0,
       "location": "./pages/install.md",
@@ -106,8 +82,8 @@
       "description": "Installation",
       "parent": null,
       "metadata": {
-        "created": 1646011417,
-        "updated": 1646011417,
+        "created": 1646011530,
+        "updated": 1646011530,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -121,6 +97,30 @@
       }
     },
     {
+      "id": "--content-about-md",
+      "indent": 0,
+      "location": "./pages/about.md",
+      "slug": "content/about/",
+      "order": 1,
+      "title": "About",
+      "description": "About",
+      "parent": null,
+      "metadata": {
+        "created": 1646011530,
+        "updated": 1646011530,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "About",
+        "order": 1
+      }
+    },
+    {
       "id": "--content-examples-Community-md",
       "indent": 0,
       "location": "./pages/examples/Community.md",
@@ -130,8 +130,8 @@
       "description": "Community examples",
       "parent": "--content-examples-index-md",
       "metadata": {
-        "created": 1646011417,
-        "updated": 1646011417,
+        "created": 1646011530,
+        "updated": 1646011530,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -154,8 +154,8 @@
       "description": "Examples",
       "parent": null,
       "metadata": {
-        "created": 1646011417,
-        "updated": 1646011417,
+        "created": 1646011530,
+        "updated": 1646011530,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -178,8 +178,8 @@
       "description": "Why this is better",
       "parent": null,
       "metadata": {
-        "created": 1646011417,
-        "updated": 1646011417,
+        "created": 1646011530,
+        "updated": 1646011530,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -202,8 +202,8 @@
       "description": "Roadmap",
       "parent": null,
       "metadata": {
-        "created": 1646011417,
-        "updated": 1646011417,
+        "created": 1646011530,
+        "updated": 1646011530,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -226,8 +226,8 @@
       "description": "Get involved!",
       "parent": null,
       "metadata": {
-        "created": 1646011417,
-        "updated": 1646011417,
+        "created": 1646011530,
+        "updated": 1646011530,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
