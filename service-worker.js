@@ -39,39 +39,39 @@
 var precacheConfig = [
   [
     "/11ty-lab-hax11ty/content/contact/",
-    "nih5hyrPYY8QOmy1"
-  ],
-  [
-    "/11ty-lab-hax11ty/content/install/",
-    "nih5hyrPYY8QOmy1"
-  ],
-  [
-    "/11ty-lab-hax11ty/content/roadmap/",
-    "nih5hyrPYY8QOmy1"
-  ],
-  [
-    "/11ty-lab-hax11ty/content/why/",
-    "nih5hyrPYY8QOmy1"
+    "S2VikZZylCbjGIyN"
   ],
   [
     "/11ty-lab-hax11ty/content/about/",
-    "nih5hyrPYY8QOmy1"
+    "S2VikZZylCbjGIyN"
   ],
   [
-    "/11ty-lab-hax11ty/content/examples/Community/",
-    "nih5hyrPYY8QOmy1"
+    "/11ty-lab-hax11ty/content/install/",
+    "S2VikZZylCbjGIyN"
+  ],
+  [
+    "/11ty-lab-hax11ty/content/roadmap/",
+    "S2VikZZylCbjGIyN"
+  ],
+  [
+    "/11ty-lab-hax11ty/content/why/",
+    "S2VikZZylCbjGIyN"
   ],
   [
     "/11ty-lab-hax11ty/content/examples/HAXTeam/",
-    "nih5hyrPYY8QOmy1"
+    "S2VikZZylCbjGIyN"
+  ],
+  [
+    "/11ty-lab-hax11ty/content/examples/Community/",
+    "S2VikZZylCbjGIyN"
   ],
   [
     "/11ty-lab-hax11ty/content/examples/",
-    "nih5hyrPYY8QOmy1"
+    "S2VikZZylCbjGIyN"
   ],
   [
     "/11ty-lab-hax11ty/",
-    "nih5hyrPYY8QOmy1"
+    "S2VikZZylCbjGIyN"
   ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
